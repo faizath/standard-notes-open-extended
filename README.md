@@ -1,9 +1,9 @@
-![Build and Deploy](https://github.com/kylejbrk/standard-notes-open-extended/workflows/Build%20and%20Deploy/badge.svg)
+![Build and Deploy](https://github.com/faizath/standard-notes-open-extended/workflows/Build%20and%20Deploy/badge.svg)
 # Standard Notes Open Extended 
 A Free Open Source Standard Notes Extensions Repository Hosted via Github Pages.
 
 # Use 
-Go to https://github.com/kylejbrk/standard-notes-open-extended/tree/gh-pages#readme to view the list of available extensions.
+Go to https://github.com/faizath/standard-notes-open-extended/tree/gh-pages#readme to view the list of available extensions.
 
 Simply copy the url for the desired extension, and past it into _Settings -> General -> Advanced Options -> Install External Package_ and then click _Install_
 
