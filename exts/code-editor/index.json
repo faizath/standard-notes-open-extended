@@ -5,9 +5,9 @@
     "marketing_url": "https://standardnotes.org/extensions/code-editor",
     "name": "Code Editor",
     "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/code.jpg",
-    "download_url": "https://kylejbrk.github.io/standard-notes-open-extended/zips/code-editor.zip",
-    "url": "https://kylejbrk.github.io/standard-notes-open-extended/exts/code-editor/index.html",
+    "download_url": "https://faizath.github.io/standard-notes-open-extended/zips/code-editor.zip",
+    "url": "https://faizath.github.io/standard-notes-open-extended/exts/code-editor/index.html",
     "version": "1.4.0",
-    "latest_url": "https://kylejbrk.github.io/standard-notes-open-extended/exts/code-editor/index.json",
-    "identifier": "io.github.kylejbrk.code-editor"
+    "latest_url": "https://faizath.github.io/standard-notes-open-extended/exts/code-editor/index.json",
+    "identifier": "io.github.faizath.code-editor"
 }

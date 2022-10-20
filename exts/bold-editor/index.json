@@ -3,12 +3,12 @@
     "content_type": "SN|Component",
     "description": "A simple and peaceful rich editor that helps you write and think clearly. Features FileSafe integration, so you can embed your encrypted images, videos, and audio recordings directly inline.",
     "flags": [],
-    "identifier": "io.github.kylejbrk.bold-editor",
+    "identifier": "io.github.faizath.bold-editor",
     "marketing_url": null,
     "name": "Bold Editor",
     "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/bold.jpg",
-    "download_url": "https://kylejbrk.github.io/standard-notes-open-extended/zips/bold-editor.zip",
-    "url": "https://kylejbrk.github.io/standard-notes-open-extended/exts/bold-editor/dist/index.html",
+    "download_url": "https://faizath.github.io/standard-notes-open-extended/zips/bold-editor.zip",
+    "url": "https://faizath.github.io/standard-notes-open-extended/exts/bold-editor/dist/index.html",
     "version": "1.4.0",
-    "latest_url": "https://kylejbrk.github.io/standard-notes-open-extended/exts/bold-editor/index.json"
+    "latest_url": "https://faizath.github.io/standard-notes-open-extended/exts/bold-editor/index.json"
 }

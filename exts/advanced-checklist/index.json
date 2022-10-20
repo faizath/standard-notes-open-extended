@@ -6,9 +6,9 @@
         "Beta"
     ],
     "name": "Advanced Checklist",
-    "download_url": "https://kylejbrk.github.io/standard-notes-open-extended/zips/advanced-checklist.zip",
-    "url": "https://kylejbrk.github.io/standard-notes-open-extended/exts/advanced-checklist/build/index.html",
+    "download_url": "https://faizath.github.io/standard-notes-open-extended/zips/advanced-checklist.zip",
+    "url": "https://faizath.github.io/standard-notes-open-extended/exts/advanced-checklist/build/index.html",
     "version": "0.2.5",
-    "latest_url": "https://kylejbrk.github.io/standard-notes-open-extended/exts/advanced-checklist/index.json",
-    "identifier": "io.github.kylejbrk.advanced-checklist"
+    "latest_url": "https://faizath.github.io/standard-notes-open-extended/exts/advanced-checklist/index.json",
+    "identifier": "io.github.faizath.advanced-checklist"
 }

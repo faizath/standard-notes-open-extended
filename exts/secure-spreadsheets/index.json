@@ -6,9 +6,9 @@
     "marketing_url": null,
     "name": "Secure Spreadsheets",
     "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/editors/spreadsheets.png",
-    "download_url": "https://kylejbrk.github.io/standard-notes-open-extended/zips/secure-spreadsheets.zip",
-    "url": "https://kylejbrk.github.io/standard-notes-open-extended/exts/secure-spreadsheets/dist/index.html",
+    "download_url": "https://faizath.github.io/standard-notes-open-extended/zips/secure-spreadsheets.zip",
+    "url": "https://faizath.github.io/standard-notes-open-extended/exts/secure-spreadsheets/dist/index.html",
     "version": "1.5.1",
-    "latest_url": "https://kylejbrk.github.io/standard-notes-open-extended/exts/secure-spreadsheets/index.json",
-    "identifier": "io.github.kylejbrk.secure-spreadsheets"
+    "latest_url": "https://faizath.github.io/standard-notes-open-extended/exts/secure-spreadsheets/index.json",
+    "identifier": "io.github.faizath.secure-spreadsheets"
 }

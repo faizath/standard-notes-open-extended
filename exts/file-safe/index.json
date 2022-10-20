@@ -6,9 +6,9 @@
     "marketing_url": "https://standardnotes.com/features/filesafe",
     "name": "FileSafe",
     "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/FileSafe-banner.png",
-    "download_url": "https://kylejbrk.github.io/standard-notes-open-extended/zips/file-safe.zip",
-    "url": "https://kylejbrk.github.io/standard-notes-open-extended/exts/file-safe/dist/index.html",
+    "download_url": "https://faizath.github.io/standard-notes-open-extended/zips/file-safe.zip",
+    "url": "https://faizath.github.io/standard-notes-open-extended/exts/file-safe/dist/index.html",
     "version": "2.0.16",
-    "latest_url": "https://kylejbrk.github.io/standard-notes-open-extended/exts/file-safe/index.json",
-    "identifier": "io.github.kylejbrk.file-safe"
+    "latest_url": "https://faizath.github.io/standard-notes-open-extended/exts/file-safe/index.json",
+    "identifier": "io.github.faizath.file-safe"
 }

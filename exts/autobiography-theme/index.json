@@ -10,9 +10,9 @@
     },
     "name": "Autobiography",
     "thumbnail_url": "https://s3.amazonaws.com/standard-notes/screenshots/models/themes/autobiography.jpg",
-    "download_url": "https://kylejbrk.github.io/standard-notes-open-extended/zips/autobiography-theme.zip",
-    "url": "https://kylejbrk.github.io/standard-notes-open-extended/exts/autobiography-theme/dist/dist.css",
+    "download_url": "https://faizath.github.io/standard-notes-open-extended/zips/autobiography-theme.zip",
+    "url": "https://faizath.github.io/standard-notes-open-extended/exts/autobiography-theme/dist/dist.css",
     "version": "1.1.1",
-    "latest_url": "https://kylejbrk.github.io/standard-notes-open-extended/exts/autobiography-theme/index.json",
-    "identifier": "io.github.kylejbrk.autobiography-theme"
+    "latest_url": "https://faizath.github.io/standard-notes-open-extended/exts/autobiography-theme/index.json",
+    "identifier": "io.github.faizath.autobiography-theme"
 }
